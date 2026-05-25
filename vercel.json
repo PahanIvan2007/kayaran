@@ -1,6 +1,0 @@
-{
-  "rootDirectory": "../..",
-  "buildCommand": "cd apps/tournament-pwa && npm run build",
-  "outputDirectory": "apps/tournament-pwa/dist",
-  "framework": "vite"
-}
